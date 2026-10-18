@@ -1,0 +1,27 @@
+# نام کانال‌های عمومی تلگرام، هر کانال در یک خط.
+# فقط نام کاربری کانال (بدون @) یا لینک t.me/نام هم قبول است.
+# خطی که با # شروع شود نادیده گرفته می‌شود.
+#
+# خط زیر فقط نمونه است تا اولین اجرا را بتوانی امتحان کنی. پاکش کن و کانال‌های خودت را بگذار:
+telegram
+
+# channel_2
+# channel_3
+# channel_4
+# channel_5
+# channel_6
+# channel_7
+# channel_8
+# channel_9
+# channel_10
+
+https://t.me/irnetmonitor
+https://t.me/CyberNigga2
+https://t.me/kaavoush
+https://t.me/iaghapour
+https://t.me/MatinSenPaii
+https://t.me/whitedns
+https://t.me/ircfspace
+https://t.me/patt_channel_x
+https://t.me/mahsa_net
+https://t.me/VahidOnline
